@@ -1,0 +1,16 @@
+{
+	"user": "Vel30",
+	"repo": "samp-achievement",
+	"entry": "test.pwn",
+	"output": "gamemodes/test.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib",
+		"pawn-lang/YSI-Includes:v5.06.1932"
+	],
+	"runtime": {
+		"version": "0.3.7",
+		"mode": "server",
+		"rcon_password": "password",
+		"port": 7777
+	}
+}
